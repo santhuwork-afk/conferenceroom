@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Conference Room Booking">1c930613c31932104a10fb2ed4013185</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Conference Room Booking Details</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1475030_confer_0_conference_room_booking_details</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1475030_confer_0.conference_room_booking_details_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 08:22:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f0454a93c31932104a10fb2ed4013178</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Conference Room Booking Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope>
+        <sys_update_name>sys_app_module_f0454a93c31932104a10fb2ed4013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 08:47:32</sys_updated_on>
+        <timeline_page/>
+        <title>Conference Room Booking Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</application>
+        <file_path/>
+        <instance_id>b59c0d7ddbfa3150ae4c9027c5961968</instance_id>
+        <instance_name>dev228641</instance_name>
+        <name>sys_app_module_f0454a93c31932104a10fb2ed4013178</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Conference Room Booking">1c930613c31932104a10fb2ed4013185</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Conference Room Booking Details</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1475030_confer_0_conference_room_booking_details</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1475030_confer_0.conference_room_booking_details_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-24 08:22:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f0454a93c31932104a10fb2ed4013178</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Conference Room Booking Table</sys_name><sys_overrides/><sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package><sys_policy/><sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope><sys_update_name>sys_app_module_f0454a93c31932104a10fb2ed4013178</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-24 08:47:32</sys_updated_on><timeline_page/><title>Conference Room Booking Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>388395083</payload_hash>
+        <record_name>Conference Room Booking Table</record_name>
+        <reverted_from/>
+        <source>ac00c29bc3d532104a10fb2ed401316d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 08:47:32</sys_created_on>
+        <sys_id>191b469bc31932104a10fb2ed40131cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ab50bfa6d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 08:47:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9d1b469bbf193210bd08cd366025a0cb</update_guid>
+        <update_guid_history>9d1b469bbf193210bd08cd366025a0cb:388395083,7c454a93d0193210e702656087742879:465673355</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Conference Room Booking Table">235b4e9bc31932104a10fb2ed401317c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 08:48:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>368790bfdf1d4f009c8d304893912624</sys_id>
+        <sys_metadata>f0454a93c31932104a10fb2ed4013178</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conference Room Booking Table</sys_name>
+        <sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope>
+        <sys_scope_delete display_value="">0f8b0388e25e4ba6812d3d72c18a5284</sys_scope_delete>
+        <sys_update_name>sys_app_module_f0454a93c31932104a10fb2ed4013178</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f0454a93c31932104a10fb2ed4013178">191b469bc31932104a10fb2ed40131cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 08:48:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

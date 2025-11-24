@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>false</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>CAP - organized by</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 09:09:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f80f4213c35932104a10fb2ed40131ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CAP - organized by</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope>
+        <sys_update_name>sys_script_client_f80f4213c35932104a10fb2ed40131ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 09:11:33</sys_updated_on>
+        <table>x_1475030_confer_0_conference_room_booking_details</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</application>
+        <file_path/>
+        <instance_id>b59c0d7ddbfa3150ae4c9027c5961968</instance_id>
+        <instance_name>dev228641</instance_name>
+        <name>sys_script_client_f80f4213c35932104a10fb2ed40131ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client"><sys_script_client action="INSERT_OR_UPDATE"><active>true</active><applies_extended>false</applies_extended><condition/><description/><field/><global>false</global><isolate_script>false</isolate_script><messages/><name>CAP - organized by</name><order/><script/><sys_class_name>sys_script_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-24 09:09:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f80f4213c35932104a10fb2ed40131ae</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CAP - organized by</sys_name><sys_overrides/><sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package><sys_policy/><sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope><sys_update_name>sys_script_client_f80f4213c35932104a10fb2ed40131ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-24 09:11:33</sys_updated_on><table>x_1475030_confer_0_conference_room_booking_details</table><type>onLoad</type><ui_type>0</ui_type><view/></sys_script_client></record_update>]]></payload>
+        <payload_hash>1356852841</payload_hash>
+        <record_name>CAP - organized by</record_name>
+        <reverted_from/>
+        <source>ac00c29bc3d532104a10fb2ed401316d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 09:11:33</sys_created_on>
+        <sys_id>4d909293c35932104a10fb2ed40131a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ab521f8010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 09:11:33</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>c19092935059321008e64369f935f5a5</update_guid>
+        <update_guid_history>c19092935059321008e64369f935f5a5:1356852841,74201a534459321012d41d4be81fc7f9:1516100780</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 09:13:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>28228bb41cfe4750b0102621776c2240</sys_id>
+        <sys_metadata>f80f4213c35932104a10fb2ed40131ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAP - organized by</sys_name>
+        <sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package>
+        <sys_parent display_value="Conference Room Booking Details">60d48e53c31932104a10fb2ed4013113</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope>
+        <sys_scope_delete display_value="">0f8b0388e25e4ba6812d3d72c18a5284</sys_scope_delete>
+        <sys_update_name>sys_script_client_f80f4213c35932104a10fb2ed40131ae</sys_update_name>
+        <sys_update_version display_value="sys_script_client_f80f4213c35932104a10fb2ed40131ae">4d909293c35932104a10fb2ed40131a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 09:13:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

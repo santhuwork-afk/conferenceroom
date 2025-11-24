@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="44824a9fc3d532104a10fb2ed40131bb" label="Conference Room Details" max_length="40" name="x_1475030_confer_0_conference_room_boking_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Capacity" max_length="40" name="capacity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Conference Room Name" max_length="40" name="conference_room_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>
