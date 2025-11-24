@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="60d48e53c31932104a10fb2ed4013113" label="Conference Room Booking Details" max_length="40" name="x_1475030_confer_0_conference_room_booking_details" type="collection">
+        <element label="End Time" mandatory="true" max_length="40" name="end_time" type="glide_time"/>
+        <element label="Start Time" mandatory="true" max_length="255" name="start_time" type="glide_time"/>
+        <element choice="3" label="Conference Room Type" mandatory="true" max_length="40" name="conference_room_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Normal" sequence="1" value="normal"/>
+                <element inactive_on_update="false" label="VCR" sequence="0" value="vcr"/>
+            </choice>
+        </element>
+        <element label="Conference Room Location" mandatory="true" max_length="40" name="conference_room_location" read_only="true" type="string"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element choice="3" label="Conference Room List" mandatory="true" max_length="40" name="conference_room_list" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Senecio" sequence="3" value="senecio"/>
+                <element inactive_on_update="false" label="Pachyveria" sequence="7" value="pachyveria"/>
+                <element inactive_on_update="false" label="Agave" sequence="4" value="agave"/>
+                <element inactive_on_update="false" label="Graptopetalum" sequence="8" value="graptopetalum"/>
+                <element inactive_on_update="false" label="Aloe" sequence="5" value="aloe"/>
+                <element inactive_on_update="false" label="Echeveria" sequence="1" value="echeveria"/>
+                <element inactive_on_update="false" label="Sempervivum" sequence="0" value="sempervivum"/>
+                <element inactive_on_update="false" label="Anacampserous" sequence="2" value="anacampserous"/>
+                <element inactive_on_update="false" label="Crassula" sequence="6" value="crassula"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Conference Room Capacity" mandatory="true" max_length="40" name="conference_room_capacity" read_only="true" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Opened By" max_length="32" name="opened_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="opened_by"/>
+        </index>
+    </element>
+</database>

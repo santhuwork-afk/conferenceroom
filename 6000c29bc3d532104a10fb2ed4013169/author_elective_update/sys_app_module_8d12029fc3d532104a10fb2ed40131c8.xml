@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Confer 0 1763971688617</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1475030_confer_0_1763971688617</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 08:08:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d12029fc3d532104a10fb2ed40131c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Confer 0 1763971688617</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope>
+        <sys_update_name>sys_app_module_8d12029fc3d532104a10fb2ed40131c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 08:08:12</sys_updated_on>
+        <timeline_page/>
+        <title>Confer 0 1763971688617</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</application>
+        <file_path/>
+        <instance_id>b59c0d7ddbfa3150ae4c9027c5961968</instance_id>
+        <instance_name>dev228641</instance_name>
+        <name>sys_app_module_8d12029fc3d532104a10fb2ed40131c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Confer 0 1763971688617</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1475030_confer_0_1763971688617</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-11-24 08:08:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8d12029fc3d532104a10fb2ed40131c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Confer 0 1763971688617</sys_name><sys_overrides/><sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package><sys_policy/><sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope><sys_update_name>sys_app_module_8d12029fc3d532104a10fb2ed40131c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-11-24 08:08:12</sys_updated_on><timeline_page/><title>Confer 0 1763971688617</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>347772734</payload_hash>
+        <record_name>Confer 0 1763971688617</record_name>
+        <reverted_from/>
+        <source>ac00c29bc3d532104a10fb2ed401316d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 08:08:12</sys_created_on>
+        <sys_id>8912029fc3d532104a10fb2ed40131cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ab4e7f74d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 08:08:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0112029fc8d53210ea0339a95df80dcc</update_guid>
+        <update_guid_history>0112029fc8d53210ea0339a95df80dcc:347772734</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Confer 0 1763971688617">79828a9fc3d532104a10fb2ed40131bf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-24 08:10:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>25487071fc834fefb793974482bd1ea9</sys_id>
+        <sys_metadata>8d12029fc3d532104a10fb2ed40131c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Confer 0 1763971688617</sys_name>
+        <sys_package display_value="Conference Room Booking" source="x_1475030_confer_0">6000c29bc3d532104a10fb2ed4013169</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">6000c29bc3d532104a10fb2ed4013169</sys_scope>
+        <sys_scope_delete display_value="">0f8b0388e25e4ba6812d3d72c18a5284</sys_scope_delete>
+        <sys_update_name>sys_app_module_8d12029fc3d532104a10fb2ed40131c8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8d12029fc3d532104a10fb2ed40131c8">8912029fc3d532104a10fb2ed40131cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-24 08:10:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
